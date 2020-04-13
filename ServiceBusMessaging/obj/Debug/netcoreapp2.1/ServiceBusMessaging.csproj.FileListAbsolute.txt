@@ -1,0 +1,14 @@
+C:\Users\TEMP.LAPTOP-HUIVU44P.000.001.002\source\repos\TicketingSystem\ServiceBusMessaging\bin\Debug\netcoreapp2.1\ServiceBusMessaging.deps.json
+C:\Users\TEMP.LAPTOP-HUIVU44P.000.001.002\source\repos\TicketingSystem\ServiceBusMessaging\bin\Debug\netcoreapp2.1\ServiceBusMessaging.dll
+C:\Users\TEMP.LAPTOP-HUIVU44P.000.001.002\source\repos\TicketingSystem\ServiceBusMessaging\obj\Debug\netcoreapp2.1\ServiceBusMessaging.csproj.CoreCompileInputs.cache
+C:\Users\TEMP.LAPTOP-HUIVU44P.000.001.002\source\repos\TicketingSystem\ServiceBusMessaging\obj\Debug\netcoreapp2.1\ServiceBusMessaging.AssemblyInfoInputs.cache
+C:\Users\TEMP.LAPTOP-HUIVU44P.000.001.002\source\repos\TicketingSystem\ServiceBusMessaging\obj\Debug\netcoreapp2.1\ServiceBusMessaging.AssemblyInfo.cs
+C:\Users\TEMP.LAPTOP-HUIVU44P.000.001.002\source\repos\TicketingSystem\ServiceBusMessaging\obj\Debug\netcoreapp2.1\ServiceBusMessaging.csprojAssemblyReference.cache
+C:\Users\TEMP.LAPTOP-HUIVU44P.000.001.002\source\repos\TicketingSystem\ServiceBusMessaging\bin\Debug\netcoreapp2.1\ServiceBusMessaging.pdb
+C:\Users\TEMP.LAPTOP-HUIVU44P.000.001.002\source\repos\TicketingSystem\ServiceBusMessaging\obj\Debug\netcoreapp2.1\ServiceBusMessaging.dll
+C:\Users\TEMP.LAPTOP-HUIVU44P.000.001.002\source\repos\TicketingSystem\ServiceBusMessaging\obj\Debug\netcoreapp2.1\ServiceBusMessaging.pdb
+C:\Users\TEMP.LAPTOP-HUIVU44P.000.001.002\source\repos\TicketingSystem\ServiceBusMessaging\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\TEMP.LAPTOP-HUIVU44P.000.001.002\source\repos\TicketingSystem\ServiceBusMessaging\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\TEMP.LAPTOP-HUIVU44P.000.001.002\source\repos\TicketingSystem\ServiceBusMessaging\obj\Debug\netcoreapp2.1\ServiceBusMessaging.csproj.CopyComplete
+C:\Users\TEMP.LAPTOP-HUIVU44P.000.001.002\source\repos\TicketingSystem\ServiceBusMessaging\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\TEMP.LAPTOP-HUIVU44P.000.001.002\source\repos\TicketingSystem\ServiceBusMessaging\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Logging.Abstractions.xml

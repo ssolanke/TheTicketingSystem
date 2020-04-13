@@ -1,0 +1,33 @@
+﻿@{
+    ViewData["Title"] = Model.Ticket.Title;
+}
+@using TicketingSystem.Models.TicketsViewModels
+@using TicketingSystem.Data
+@using System.Linq
+@model TicketDetails
+
+@if (Model.Ticket.IsUrgent)
+{
+    <h3 class="center red">URGENT</h3>
+}
+
+<h3>Ticket Details</h3>
+<p>
+    Complexity: @Model.Ticket.Complexity <br>
+    Date Added: @Model.Ticket.DateAdded <br>
+    Status: @(Model.Ticket.TicketStatus ? "Open" : "Closed") <br>
+    Description: @Model.Ticket.Description <br>
+    Notes: @Model.Ticket.Notes <br>
+</p>
+
+
+
+<h3>Client Details</h3>
+<p>
+    Name: @Model.Client.FirstName @Model.Client.LastName <br>
+    Company: @Model.Client.Company <br>
+    Phone: @Model.Client.PhoneNumber <br>
+    Email: @Model.Client.EmailAddress <br>
+</p>
+
+

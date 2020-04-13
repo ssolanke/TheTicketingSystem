@@ -1,0 +1,42 @@
+﻿@using Microsoft.AspNetCore.Identity
+@using TicketingSystem.Models
+@using TicketingSystem.Data
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>@ViewData["Title"] - Ticketing System </title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-beta/css/materialize.min.css" media="screen,projection" />
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    @RenderSection("Style", required: false)
+</head>
+
+<body>
+    <nav class="purple darken-4">
+        <div class="nav-wrapper purple darken-4 container">
+            <a class="brand-logo hide-on-med-and-down"><strong class="amber-text text-darken-2"> Ticketing System </strong> </a>
+            <ul class="right amber-text text-darken-2">
+                <li>
+                    <a asp-controller="Tickets" asp-action="All">Tickets</a>
+                </li>
+                <li>
+                    <a asp-controller="Clients" asp-action="All">Clients</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+    <main class="container">
+        <h1 id="Title">@ViewData["Title"]</h1>
+        @RenderBody()
+    </main>
+
+    @RenderSection("Scripts", required: false)
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-beta/js/materialize.min.js" crossorigin=" anonymous "></script>
+</body>
+
+</html>
